@@ -7,7 +7,7 @@ output: github_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE,
-                      root.dir = '/processing/cnn')
+                      root.dir = '/processing/cnn/tiling/')
 ```
 
 ## Background
