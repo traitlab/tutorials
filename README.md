@@ -2,9 +2,6 @@
 
 ## What is this?
 A series of tutorials, mostly using R, that members of the [Plant Functional Ecology Laboratory (LEFO)](www.lefo.ca) put together. The tutorials cover various data processing and analysis tasks that we commonly do.
-=======
-A series of tutorials, mostly using R, that members of the Laboratoire d'écologie foncitonnelle végétale (LEFO) put together. The tutorials cover various data processing and analysis tasks that we commonly do.
->>>>>>> 470a1b355ae545d1d3ba39874b9832d39b09f166
 
 ## Type of tutorials
 The tutorials are about data science and are split into three different categories of data-related activities:
