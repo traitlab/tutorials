@@ -29,4 +29,4 @@ vignettes/*.pdf
 .Renviron
 # Various files too large
 /processing/cnn/tiling/ortho_crop.tif
-/processing/gis/orthometric_mns_reproj/
+/processing/gis/orthometric_mns_reproj/data/
