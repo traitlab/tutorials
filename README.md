@@ -1,3 +1,5 @@
+![](figs/LEFO.png){width=25%}
+
 # LEFO R tutorials
 
 ## What is this?
@@ -14,10 +16,11 @@ The tutorials are about data science and are split into three different categori
 ## How to find the tutorials
 First go to the folder corresponding to the data operation of interest. Then, sub-folders will relate to different themes or data types. Finally, every single tutorial should be in a separate folder with a short name that should allow you to find it.
 
-The structure of this repo is to make it as easy as possible for us to contribute tutorials. The drawback is that's it's not as nice as a structured book.
+> The tutorials can be found by clicking on the `.md` (Markdown) files. They will render as HTML files that can be read in your browser.
+
+The structure of this repo is to make it as easy as possible for lab members to contribute tutorials. The drawback is that's it's not as easy to find the tutorials, as it would if it was a structured website. Perhaps in the future we will make such a website. Perhaps not.
 
 ## How to contribute
-
 1. [Clone the repo](https://happygitwithr.com/rstudio-git-github.html) on RStudio
 2. Always pull before you start
 3. Create a folder for your tutorial at the right place
@@ -27,5 +30,3 @@ The structure of this repo is to make it as easy as possible for us to contribut
 7. Push to GitHub
 
 Refer to this book if you need help with the [Github - RStudio integration](https://happygitwithr.com/index.html).
-
-
