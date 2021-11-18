@@ -15,7 +15,7 @@ The tutorials are about data science and are split into three different categori
 1. **acquisition**: either from the internet or from instruments
 2. **processing**: common data wrangling operations
 3. **analysis**: fitting models
-4. **visualiztion**: graphs, maps, etc
+4. **visualization**: graphs, maps, etc
 
 ## How to find the tutorials
 First go to the folder corresponding to the data operation of interest. Then, sub-folders will relate to different themes or data types. Finally, every single tutorial should be in a separate folder with a short name that should allow you to find it.
