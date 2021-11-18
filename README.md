@@ -1,4 +1,4 @@
-![](figs/LEFO.png){width="25%"}
+![](figs/LEFO.png){width=200px}
 
 
 # LEFO R tutorials
