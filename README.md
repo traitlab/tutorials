@@ -6,6 +6,9 @@
 ## What is this?
 A series of tutorials, mostly using R, that members of the [Plant Functional Ecology Laboratory (LEFO)](https://lefo.ca) put together. The tutorials cover various data processing and analysis tasks that we commonly do.
 
+## English... and French?
+Université de Montréal (UdeM), where our lab is based, is a french-speaking institution. As such some of tutorials are in French. It depends who wrote it and for what purpose. Tutorials that were initially designed around teaching a UdeM course will be in French.
+
 ## Type of tutorials
 The tutorials are about data science and are split into three different categories of data-related activities:
 
