@@ -1,5 +1,5 @@
-![](figs/LEFO.png){width=200px}
-
+<img src="figs/LEFO.png" alt="logo"
+	width="250" />
 
 # LEFO R tutorials
 
