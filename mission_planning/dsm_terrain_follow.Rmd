@@ -2,7 +2,9 @@
 title: "Creating DSM for terrain follow mission"
 author: "Etienne Laliberté"
 date: "2023-02-24"
-output: html_document
+output:
+  pdf_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
